@@ -1,0 +1,7 @@
+{
+    "name": "passguard/passguard",
+    "description": "Pedagogical password vault — Technology Project",
+    "require": {
+        "smarty/smarty": "^4.3"
+    }
+}
