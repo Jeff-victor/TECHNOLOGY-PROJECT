@@ -133,7 +133,7 @@ PassGuard is a web-based personal password vault that lets users store credentia
 
 4. **Start Apache and MySQL** from your local environment's control panel.
 
-5. **Open the app** at [http://localhost/passguard](http://localhost/passguard).
+5. **Open the app** at http://localhost/passguard/passguard/php/login.php
 
 ### Database Setup
 
